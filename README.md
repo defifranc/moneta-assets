@@ -1,2 +1,5 @@
-# moneta-assets
-Branding assets of Moneta DAO and projects
+# Moneta Assets
+
+Find here all branding assets of MonetaDAO and its projects:
+- [Moneta](./moneta)
+- [DeFi Franc](./dchf)
